@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#MD_AButton						KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+GAMA_EEPROM						KEYWORD2
+begin							KEYWORD2
+initChannelValues				KEYWORD2
+saveChannelValues				KEYWORD2
+loadChannelValues				KEYWORD2
+hasChannelValues				KEYWORD2
+initPassword					KEYWORD2
+isValidPassword					KEYWORD2
+savePassword					KEYWORD2
+loadPassword					KEYWORD2
+hasEmptyPassword				KEYWORD2
+savePasswordLength				KEYWORD2
+getDataPin						KEYWORD2
+getSelectorPin					KEYWORD2
+getRSSIInputPin					KEYWORD2
+setDataPin						KEYWORD2
+setSelectorPin					KEYWORD2
+setRSSIInputPin					KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+EEPROM_SIZE						LITERAL1
+CHANNEL_DEFAULT_VALUES			LITERAL1
+CHANNEL_START_ADDRESS			LITERAL1
+CHANNEL_LENGTH					LITERAL1
+PASSWORD_DEFAULT_VALUES			LITERAL1
+PASSWORD_LENGTH_ADDRESS			LITERAL1
+PASSWORD_ADDRESS_START			LITERAL1
+PASSWORD_MAX_CHARACTERS			LITERAL1
+DATA_PIN_ADDRESS				LITERAL1
+SELECTOR_PIN_ADDRESS			LITERAL1
+RSSI_INPUT_PIN_ADDRESS			LITERAL1
