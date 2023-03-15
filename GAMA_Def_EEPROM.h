@@ -1,8 +1,0 @@
-#define CHANNEL_DEFAULT_VALUES      "5555"
-#define CHANNEL_START_ADDRESS       50
-#define CHANNEL_LENGTH              4
-
-#define PASSWORD_DEFAULT_VALUES     "default"
-#define PASSWORD_LENGTH_ADDRESS     0
-#define PASSWORD_ADDRESS_START      1
-#define PASSWORD_MAX_CHARACTERS     50
